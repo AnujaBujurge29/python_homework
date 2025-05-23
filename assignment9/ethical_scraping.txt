@@ -1,0 +1,25 @@
+1. Which sections of the website are restricted for crawling?
+Ans:
+The Wikipedia robots.txt file disallows access to:
+    - /w/
+    - /wiki/Special:
+    - /wiki/Wikipedia:
+    - /wiki/Wikipedia_talk:
+    - /wiki/Template:
+    - /wiki/Category:
+    - /wiki/Module:
+
+
+2. Are there specific rules for certain user agents?
+Ans:
+Yes. 
+The file includes specific rules for various user agents such as Googlebot, Bingbot, 
+AhrefsBot, and others, often with more relaxed or restricted access depending on the bot.
+
+3. why websites use robots.txt?
+Ans:
+    The robots.txt file is a web standard used to communicate with web crawlers 
+    and bots, telling them which parts of the site they are allowed to access and index. 
+    It helps website owners manage server load, protect sensitive areas, and prevent misuse
+    of their content. Following robots.txt is part of ethical scraping, showing respect for
+    a site's data, privacy, and infrastructure.

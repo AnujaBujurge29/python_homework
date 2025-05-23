@@ -1,0 +1,314 @@
+[
+  {
+    "Title": "A01:2021-Broken Access Control",
+    "Link": "https://owasp.org/Top10/A01_2021-Broken_Access_Control/"
+  },
+  {
+    "Title": "A02:2021-Cryptographic Failures",
+    "Link": "https://owasp.org/Top10/A02_2021-Cryptographic_Failures/"
+  },
+  {
+    "Title": "A03:2021-Injection",
+    "Link": "https://owasp.org/Top10/A03_2021-Injection/"
+  },
+  {
+    "Title": "A04:2021-Insecure Design",
+    "Link": "https://owasp.org/Top10/A04_2021-Insecure_Design/"
+  },
+  {
+    "Title": "A05:2021-Security Misconfiguration",
+    "Link": "https://owasp.org/Top10/A05_2021-Security_Misconfiguration/"
+  },
+  {
+    "Title": "A06:2021-Vulnerable and Outdated Components",
+    "Link": "https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/"
+  },
+  {
+    "Title": "A07:2021-Identification and Authentication Failures",
+    "Link": "https://owasp.org/Top10/A07_2021-Identification_and_Authentication_Failures/"
+  },
+  {
+    "Title": "A08:2021-Software and Data Integrity Failures",
+    "Link": "https://owasp.org/Top10/A08_2021-Software_and_Data_Integrity_Failures/"
+  },
+  {
+    "Title": "A09:2021-Security Logging and Monitoring Failures",
+    "Link": "https://owasp.org/Top10/A09_2021-Security_Logging_and_Monitoring_Failures/"
+  },
+  {
+    "Title": "A10:2021-Server-Side Request Forgery",
+    "Link": "https://owasp.org/Top10/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/"
+  },
+  {
+    "Title": "",
+    "Link": "https://owasp.org/Top10/ar/"
+  },
+  {
+    "Title": "",
+    "Link": "https://owasp.org/Top10/es/"
+  },
+  {
+    "Title": "",
+    "Link": "https://owasp.org/Top10/fr/"
+  },
+  {
+    "Title": "",
+    "Link": "https://owasp.org/Top10/id/"
+  },
+  {
+    "Title": "",
+    "Link": "https://owasp.org/Top10/it/"
+  },
+  {
+    "Title": "",
+    "Link": "https://owasp.org/Top10/ja/"
+  },
+  {
+    "Title": "",
+    "Link": "https://owasp.org/Top10/pt_BR/"
+  },
+  {
+    "Title": "",
+    "Link": "https://owasp.org/Top10/zh_CN/"
+  },
+  {
+    "Title": "",
+    "Link": "https://owasp.org/Top10/zh_TW/"
+  },
+  {
+    "Title": "",
+    "Link": "https://wiki.owasp.org/?title=Special:Redirect/file/OWASP_Top_10_2017_%E4%B8%AD%E6%96%87%E7%89%88v1.3.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://wiki.owasp.org/index.php/User:Jie_Wang"
+  },
+  {
+    "Title": "",
+    "Link": "https://github.com/OWASP/Top10/tree/master/2017/fr"
+  },
+  {
+    "Title": "",
+    "Link": "https://wiki.owasp.org/?title=Special:Redirect/file/OWASP_Top_10-2017_de_V1.0.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://owasp.org/www-project-top-ten/2017/de/"
+  },
+  {
+    "Title": "",
+    "Link": "https://wiki.owasp.org/?title=Special:Redirect/file/OWASP-Top-10-2017-he.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://wiki.owasp.org/?title=Special:Redirect/file/OWASP-Top-10-2017-he.pptx"
+  },
+  {
+    "Title": "",
+    "Link": "https://wiki.owasp.org/?title=Special:Redirect/file/OWASP_Top_10-2017%28ja%29.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://wiki.owasp.org/?title=Special:Redirect/file/OWASP_Top_10-2017-ko.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://wiki.owasp.org/?title=Special:Redirect/file/OWASP_Top_10-2017-ko.pptx"
+  },
+  {
+    "Title": "",
+    "Link": "https://wiki.owasp.org/?title=Special:Redirect/file/OWASP_Top_10-2017-pt_pt.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://github.com/OWASP/Top10/raw/master/2017/OWASP%20Top%2010-2017-pt_pt.odp"
+  },
+  {
+    "Title": "",
+    "Link": "https://wiki.owasp.org/?title=Special:Redirect/file/OWASP%20Top%2010-2017-ru.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://github.com/JZDLin"
+  },
+  {
+    "Title": "",
+    "Link": "https://github.com/hamster4n"
+  },
+  {
+    "Title": "",
+    "Link": "https://github.com/KvanTTT"
+  },
+  {
+    "Title": "",
+    "Link": "https://wiki.owasp.org/index.php/User:Taras_Ivashchenko"
+  },
+  {
+    "Title": "",
+    "Link": "https://wiki.owasp.org/?title=Special:Redirect/file/OWASP-Top-10-2017-es.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://wiki.owasp.org/index.php/User:Gerardo_Canedo"
+  },
+  {
+    "Title": "",
+    "Link": "https://wiki.owasp.org/index.php/User:Cristian_Borghello"
+  },
+  {
+    "Title": "",
+    "Link": "https://www.owasp.org/images/d/d6/OWASP_Top_10_2017%EF%BC%88RC2%EF%BC%89%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88%E5%8F%91%E5%B8%83%E7%89%88%EF%BC%89.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://www.owasp.org/images/6/6a/OWASP_TOP_10_2013_Arabic.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://www.owasp.org/images/5/51/OWASP_Top_10_2013-Chinese-V1.2.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://www.owasp.org/images/f/f3/OWASP_Top_10_-_2013_Final_-_Czech_V1.1.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://www.owasp.org/images/0/02/OWASP_Top_10_-_2013_Final_-_Czech_V1.1.pptx"
+  },
+  {
+    "Title": "",
+    "Link": "https://torage.googleapis.com/google-code-archive-downloads/v2/code.google.com/owasptop10/OWASP%20Top%2010%20-%202013%20-%20French.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://wiki.owasp.org/?title=Special:Redirect/file/OWASP_Top_10_2013_DE_Version_1_0.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://wiki.owasp.org/index.php/User:Kai_Jendrian"
+  },
+  {
+    "Title": "",
+    "Link": "https://wiki.owasp.org/index.php/User:Ralf_Reinhardt"
+  },
+  {
+    "Title": "",
+    "Link": "https://wiki.owasp.org/index.php/OWASP_Top10_Hebrew"
+  },
+  {
+    "Title": "",
+    "Link": "https://www.owasp.org/images/1/1b/OWASP_Top_10_2013-Hebrew.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://www.owasp.org/images/c/c9/OWASP_Top_10_-_2013_-_Italiano.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://www.owasp.org/images/7/79/OWASP_Top_10_2013_JPN.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://www.owasp.org/images/2/2c/OWASP_Top_10_-_2013_Final_-_Korean.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://torage.googleapis.com/google-code-archive-downloads/v2/code.google.com/owasptop10/OWASP_Top_10_-_2013_Brazilian_Portuguese.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://www.owasp.org/images/5/5f/OWASP_Top_10_-_2013_Final_-_Espa%C3%B1ol.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://www.owasp.org/images/e/e3/OWASP_Top_10_-_2013_Final_Ukrainian.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://torage.googleapis.com/google-code-archive-downloads/v2/code.google.com/owasptop10/OWASP%20Top%2010%20-%202010%20Korean.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://torage.googleapis.com/google-code-archive-downloads/v2/code.google.com/owasptop10/OWASP%20Top%2010%20-%202010%20Spanish.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://torage.googleapis.com/google-code-archive-downloads/v2/code.google.com/owasptop10/OWASP%20Top%2010%20-%202010%20French.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://wiki.owasp.org/?title=Special:Redirect/file/OWASPTop10_2010_DE_Version_1_0.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://wiki.owasp.org/index.php/User:Kai_Jendrian"
+  },
+  {
+    "Title": "",
+    "Link": "https://wiki.owasp.org/index.php/https://wiki.owasp.org/index.php/User:Ralf_Reinhardt"
+  },
+  {
+    "Title": "",
+    "Link": "https://torage.googleapis.com/google-code-archive-downloads/v2/code.google.com/owasptop10/OWASP%20Top%2010%20-%202010%20Indonesian.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://www.owasp.org/images/f/f9/OWASP_Top_10_-_2010_ITA.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://torage.googleapis.com/google-code-archive-downloads/v2/code.google.com/owasptop10/OWASP%20Top%2010%20-%202010%20Japanese-A4.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://www.owasp.org/images/a/a9/OWASP_Top_10_2010_Chinese_V1.0_Released.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://owasp.org/www-project-top-ten/torage.googleapis.com/google-code-archive-downloads/v2/code.google.com/owasptop10/OWASPTop%2010%20-%202010%20Vietnamese.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://wiki.owasp.org/index.php/OWASP_Top10_Hebrew"
+  },
+  {
+    "Title": "",
+    "Link": "https://www.owasp.org/images/c/cd/OWASP_Top_10_Heb.pdf"
+  },
+  {
+    "Title": "",
+    "Link": "https://bit.ly/OWASPTop10Data"
+  },
+  {
+    "Title": "HOME",
+    "Link": "https://owasp.org/"
+  },
+  {
+    "Title": "PROJECTS",
+    "Link": "https://owasp.org/projects/"
+  },
+  {
+    "Title": "CHAPTERS",
+    "Link": "https://owasp.org/chapters/"
+  },
+  {
+    "Title": "EVENTS",
+    "Link": "https://owasp.org/events/"
+  },
+  {
+    "Title": "ABOUT",
+    "Link": "https://owasp.org/about/"
+  },
+  {
+    "Title": "PRIVACY",
+    "Link": "https://owasp.org/www-policy/operational/privacy"
+  },
+  {
+    "Title": "SITEMAP",
+    "Link": "https://owasp.org/sitemap/"
+  },
+  {
+    "Title": "CONTACT",
+    "Link": "https://owasp.org/contact/"
+  }
+]
