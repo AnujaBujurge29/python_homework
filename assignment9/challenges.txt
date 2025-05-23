@@ -1,0 +1,15 @@
+Challenges faced during Task 6: Scraping Structured Data
+
+1. Locating the correct HTML elements: 
+   - The OWASP Top 10 page contains many sections and headings. Initially, it was unclear how to pinpoint exactly the top 10 risks.
+
+2. Ensuring page fully loaded:
+   - The page uses JavaScript to render content, so elements might not be immediately available.
+   - Solution: Added a time.sleep(3) delay after loading the page to ensure all elements were present before scraping.
+
+3. Writing to CSV in correct directory:
+   - Needed to ensure the file saved in the correct folder (`python_homework/assignment9`).
+   - Solution: Specified the full relative path when saving the CSV file or making sure we are in right directory.
+
+Overall, the task was straightforward after careful inspection of the page structure and 
+adding sufficient waits to avoid element not found errors.
