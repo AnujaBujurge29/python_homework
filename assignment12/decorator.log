@@ -1,0 +1,16 @@
+this string would be logged
+this string would be logged
+this string would be logged
+this string would be logged
+this string would be logged
+function: say_hello positional parameters: none keyword parameters: none return: None
+function: all_args positional parameters: [1, 2, 3, 'test'] keyword parameters: none return: True
+function: keyword_args positional parameters: none keyword parameters: {'name': 'John', 'age': 30, 'city': 'New York'} return: <function logger_decorator at 0x00000215191523E0>
+this string would be logged
+function: say_hello positional parameters: none keyword parameters: none return: None
+function: all_args positional parameters: [1, 2, 3, 'test'] keyword parameters: none return: True
+function: keyword_args positional parameters: none keyword parameters: {'name': 'John', 'age': 30, 'city': 'New York'} return: <function logger_decorator at 0x000001E40CCE2480>
+this string would be logged
+function: say_hello positional parameters: none keyword parameters: none return: None
+function: all_args positional parameters: [1, 2, 3, 'test'] keyword parameters: none return: True
+function: keyword_args positional parameters: none keyword parameters: {'name': 'John', 'age': 30, 'city': 'New York'} return: <function logger_decorator at 0x0000017FA2BF2480>
